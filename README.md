@@ -1,6 +1,6 @@
 # blog_explorer
 
-A new Flutter project.
+A basic blog explorer application for accessing an API to retrieve and access online blogs.
 
 ## Getting Started
 
